@@ -1,0 +1,26 @@
+- 
+  id: 0
+  name: "Orestes"
+  surname: "Carracedo"
+  title: "Full-stack ninja"
+  thumbnailUrl: OrestesCarracedo.jpg
+  team: true
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/112497031758182167915"}
+    - {name: "twitter", link: "https://twitter.com/orestesca?lang=es"}
+    - {name: "github", link: "https://github.com/orestes"}
+-
+  id: 1
+  name: "Ana"
+  surname: "Cidre"
+  title: "Frontend Developer and WTM Lead"
+  thumbnailUrl: AnaCidre.jpg
+  team: true
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social:
+    - {name: "github", link: "https://github.com/anacidre"}
+    - {name: "twitter", link: "https://twitter.com/anacidre_?lang=ens"}
+    - {name: "site", link: "http://http://anacidre.com/"}

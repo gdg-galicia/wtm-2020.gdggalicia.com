@@ -1,0 +1,9 @@
+- 
+  group: "Main organizer"
+  elements: 
+    - {name: "GDG Vigo", description: "GDG Vigo - Comunidad abierta de voluntarios en la ciudad de Vigo", link: "https://www.meetup.com/es-ES/GDGVigo/", imageUrl: "gdg-vigo.svg"}
+- 
+  group: "Co-organizers"
+  elements:
+    - {name: "GalsTech", description: "GalsTech - Comunidad para mujeres tecnológicas de Galicia", link: "https://www.galstech.org", imageUrl: "galstech.svg"}
+    - {name: "A industriosa", description: "A Industriosa - Vigo", link: "https://intranet.aindustriosa.org/", imageUrl: "logo_completo.svg"}

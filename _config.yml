@@ -1,0 +1,261 @@
+# Plugins
+plugins:
+- jekyll-sitemap
+safe: false
+
+# Build Settings
+markdown: kramdown
+permalink: pretty
+exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
+
+
+# Site Settings
+title: "Women Techmakers Galicia 2018 - 10th March, Vigo"
+email: "info@gdggalicia.com"
+description: "Women Techmakers Galicia is coming to Vigo on the 10th March 2018. We are currently looking for sponsors. Join us to help make the Galician tech scene a more diverse place."
+baseurl: ""
+url: "https://wtm.gdggalicia.com"
+permalink: "/blog/:title"
+googleAnalyticsTrackingId: "UA-112660796-1"
+googleAnalyticsSiteUrl: "wtm.gdggalicia.com"
+siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
+
+# Organizer Info
+organizerName: "Women Techmakers Galicia"
+organizerAlternateName: "Women Techmakers Galicia"
+organizerDescription: "Women Techmakers powered by GDG Galicia presents
+                       International Women's Day Global Event Series. Connect. Create. Celebrate."
+organizerEmail: "info@gdggalicia.com"
+organizerLogo: "/img/seo/wtmgalicia.png"
+organizerLink: "https://www.meetup.com/en-AU/GDGVigo/?chapter_analytics_code=UA-73757047-1"
+
+# Head
+metaKeywords: "women, techmakers, wtm, galicia, event, gdg, google, programming, android, chrome, developers, lviv"
+twitterAccount: "@gdggalicia"
+socialImageSrcGooglePlus: "/img/seo/social-share.jpg"
+socialImageSrcTwitter: "/img/seo/social-share.jpg"
+socialImageSrcFacebook: "/img/seo/social-share.jpg"
+
+# Documents
+c4pUrl: "https://gdgvigo.typeform.com/to/tv2opj"
+c4sponsorsUrl: "https://gdgvigo.typeform.com/to/okuTbZ"
+
+
+# Navigation
+navigationLinks:
+ - {permalink: "/", text: "Home"}
+ - {permalink: "/cod/", text: "Code of Conduct"}
+ - {permalink: "/schedule/", text: "Schedule"}
+ - {permalink: "/speakers/", text: "Speakers"}
+ - {permalink: "/team/", text: "Team"}
+ - {permalink: "/logistics/", text: "Location"}
+ - {permalink: "/blog/", text: "Blog"}
+ - {link: "http://ng-girls.org/galicia/", text: "ngGirls"}
+ #- {permalink: "/nggirls/", text: "nggirls"}
+rightNavigationButtons:
+ - {link: "https://www.meetup.com/en-AU/GDGVigo/events/246829616/", text: "Get your ticket"}
+
+# Hero Block
+heroImage: "hero.jpg"
+heroTitle: "Women Techmakers <typeout> 2018"
+eventDate: "9-10 March, 2018, Fundación Barrié - Vigo"
+typeoutTextValues: '"", "Galicia"'
+typeoutFallback: "Galicia"
+heroButtons:
+ - {link: "http://ng-girls.org/galicia/", text: "ngGirls"}
+ - {permalink: "https://www.meetup.com/en-AU/GDGVigo/events/246829616/", text: "Get your ticket"}
+
+# About Block
+aboutTitle: "About WTM Galicia"
+aboutBlock:
+ - {title: "ngGirls", image: "nggirls.jpg", text: "A global Angular workshop to introduce women to the world of technology and increase diversity on 9th March" }
+ - {title: "Conference", image: "conference.jpg", text: "The best tech conference in Galicia crafted by the local GDG groups with awesome speakers and lots of fun!" }
+ #- {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
+
+# Statistic Block
+statisticBlockImage: "statistic.jpg"
+statisticBlock:
+ - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
+ - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
+ - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
+ - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
+
+# Latest News Block
+latestNewsTitle: "Latest news"
+
+# Rockstar Speakers Block
+rockstarSpeakersImage: "rockstar-speakers.jpg"
+rockstarSpeakersCount: 4
+rockstarSpeakersTitle: "Rockstar speakers"
+rockstarSpeakersButtonText: "See all speakers"
+
+# Location Block
+locationBlockTitle: "Location"
+eventLocationName: "Conference Hall"
+eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
+eventStreetAddress: "Rúa Policarpo Sanz 31"
+eventAddressLocality: "Vigo"
+eventAddressLocalityRegion: "Pontevedra"
+eventPostalCode: "36202"
+eventAddressCountry: "Spain"
+eventStartTime: "2014-10-25T10:00"
+eventDoorTime: "09:00"
+eventEndTime: "2014-10-25T20:00"
+eventPlaceCoordinates: "42.237904, -8.720964"
+mapCenterCoordinates: "42.237904, -8.720964"
+mapMobileCenterCoordinates: "42.237904, -8.720964"
+
+# Venue Block
+venueBlockTitle: "Venue"
+venueBigImage: "venue_0.jpg"
+venueSmallImage1: "venue_1.jpg"
+venueSmallImage2: "venue_2.jpg"
+venueSmallImage3: "venue_3.jpg"
+venueTitle: "Kinopalace Cinema"
+venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
+
+# Tweets Feed Block
+tweetsFeedImage: "twitter-feed.jpg"
+tweetsFeedTitle: "What's Up?"
+twitterHashTag: "devfest"
+twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
+
+# Partners Block
+organizersTitle: "Organizers"
+partnersTitle: "Partners"
+partnersC4sponsorsButton: "Become a sponsor"
+
+# Subscribe Block
+subscribeImage: "subscribe.jpg"
+subscribeTitle: "Subscribe for updates"
+subscribeAction: "https://gdgvigo.us16.list-manage.com/subscribe/post?u=66b4bb03b0b8f95169952466e&amp;id=289252fea5"
+subscribeInfo: "Registration will be open around beginning of February 2018. Number of tickets are limited. Stay tuned!"
+
+# Tickets Block
+ticketsTitle: "Sponsorship"
+ticketsOffers:
+ -
+  name: "Shy guy"
+  price: "300"
+  priceCurrency: "€"
+  ticketsNumber: "350"
+  buyButtonLink: "https://gdgvigo.typeform.com/to/okuTbZ"
+  buyButtonText: "Sponsor us now!"
+  ticketContentList: ["Support women in tech", "Logo on website", "Shared slide"]
+  validFrom: "2014-08-25T10:00"
+  validThrough: "2014-09-30T23:59"
+ -
+  name: "Big boss"
+  price: "1000"
+  priceCurrency: "€"
+  ticketsNumber: "1000"
+  featured: true
+  buyButtonLink: "https://gdgvigo.typeform.com/to/okuTbZ"
+  buyButtonText: "Sponsor us now!"
+  ticketContentList: ["Everything from High five ", "Logo on T-Shirt", "Logo on videos that are recorded", "Hiring booth at venue"]
+  validFrom: "2014-10-01T00:00"
+  validThrough: "2014-10-23T23:59"
+ -
+  name: "High five"
+  price: "700"
+  priceCurrency: "€"
+  ticketsNumber: "700"
+  buyButtonLink: "https://gdgvigo.typeform.com/to/okuTbZ"
+  buyButtonText: "Sponsor us now!"
+#  additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
+  ticketContentList: ["Everything from Shy guy", "Your own slide", "Social Media mention"]
+  validFrom: "2014-08-20T10:00"
+  validThrough: "2014-10-23T23:59"
+
+# Footer
+socialLinks:
+ - {link: "https://plus.google.com/communities/104458805154699272096", icon: "google-plus"}
+ - {link: "https://twitter.com/GDGVigo", icon: "twitter"}
+ - {link: "https://www.facebook.com/googledevelopergroupvigo/", icon: "facebook"}
+ - {permalink: "/feed.xml", icon: "rss"}
+footerBlocks:
+ -
+  title: "Links"
+  links:
+   - {link: "https://developers.google.com", text: "Google Developers"}
+ -
+  title: "Contacts"
+  links:
+   - {link: "mailto:info@gdgvigo.com", text: "info@gdgvigo.com"}
+ -
+  title: "FAQ"
+  links:
+   - {permalink: "/cod/", text: "Code of Conduct"}
+
+# Blog
+blogTitle: "Latest news"
+blogCommentsEnabled: true
+discusShortName: "devfestua"
+
+# Speakers List Block
+showSessions: true
+
+# Team Block
+teamBlockTitle: "About us"
+aboutUs: "We are a small but ambitious team with big dreams. We love what we do and we do it because of the community. So now it is our turn to give back to the community!"
+
+# Logistics Find Way Block
+findWayTitle: "Find your way here"
+findWayDistance: "Distance"
+findWayDriving: "DRIVING"
+findWayWalking: "WALKING"
+findWayBicycling: "BICYCLING"
+findWayTransit: "TRANSIT"
+findWayFindFlight: "Find Flight"
+logisticsMapCenterCoordinates: "42.237904, -8.720964"
+logisticsMapMobileCenterCoordinates: "42.237904, -8.720964"
+logisticsMapAutoDirections: false
+googleMapsApiKey: "AIzaSyCKZiS4sRf0EO86qoQvCJIJTnjvN3qdMPA"
+
+# Logistics Direction Details Block
+directionDetailsImage: "direction-details.jpg"
+directionDetailsTitle: "Get to Fundación Barrié, Vigo"
+directionDetailsCards:
+ - {title: "From the Airport", information: 'Airport is right at the city border. It is easy to reach by car, public transport or taxi. More information is available at <a href="http://www.aena.es/es/aeropuerto-vigo/transporte-y-parking.html">airport website</a>.'}
+ - {title: "Public Transit", information: 'Google Transit is available in Vigo. So you can find your way on Google Maps. Vigo is not a very big city so it is easy to get around by foot.'}
+ - {title: "Hotels", information: 'Vigo has lots of great hotels and hostels. More information will be available later.'}
+
+# Hackathon
+hackathonTitle: "Hackathon"
+enableHackathon: true
+
+# Hackathon About Block
+aboutHackathonTitle: "Meet our themes"
+hackathonRows:
+ - {title: "Android Wear", image: "hackathon-0.png", details: "The front doors will be locked because this is after hours, please park behind the building and come to the door nearest the parking lot.<br><br>Our last meeting showed that there was a lot of interest in Android Wear so we decided to put on an Android Wear Hackathon to see what you could come up with! We realize that this is pretty short notice so we hope you can help us spread the word! There will be pizza, prizes and a great group of geeks to spend the evening coding with! Even if you don't have an app idea come on in and lend a hand to someone else or maybe find inspiration once you're here!"}
+ - {title: "Google Glass", image: "hackathon-1.png", details: "We love wearable computing especially Google Glass for which we want to gather the break up community in order to boost innovation.<br><br>Coding an app on Google Glass needs its Rockstar Dev : the team needs a fast learner with solid skills on Android. He knows his way around Android SDK, already checked the Glass Developement Kit (GDK) quick start guide allowing him to jump start developing an app for Glass.The Designer has the hard task to build the visual identity from the ground up, he has strong UX knowledge and a deep understanding of the new rules set by the Glass. His design skills give him the credibility to decide the most effective UI and the most compelling Glass experience."}
+ - {title: "Polymer", image: "hackathon-2.png", details: "Polymer is a library that introduces web components. Web components are small elements on a page that can be extended and incorporated in web applications. The result is an increase in productivity.<br><br>We used Polymer mainly to explore the concept of web components. The transition of Google to material design was also a factor.While the library was never touched by the team, it still was painless to wireframe the application. Later on we incorporated some Polymer components in the design. We didn’t use the full potential of Polymer because of the limited time."}
+
+# Hackathon Judges Block
+judgesImage: "judges.jpg"
+judgesTitle: "Judges"
+
+# Hackathon Prizes Block
+prizesTitle: "Prizes"
+prizes:
+ - {title: "2nd Place", image: "prize-2.png", info: "Amazing Moto 360"}
+ - {title: "1nd Place", image: "prize-1.png", info: "Nexus 5 with pre-installed Android L"}
+ - {title: "3nd Place", image: "prize-3.png", info: "Useful Chromecast"}
+
+# Hackathon Location Block
+hackathonLocationBlockTitle: "Location"
+hackathonLocationName: "Communa"
+hackathonLocationLink: "http://communa.net.ua/"
+hackathonStreetAddress: "1 Halytska St"
+hackathonAddressLocality: "Lviv"
+hackathonAddressLocalityRegion: "Lvivska"
+hackathonPostalCode: "79000"
+hackathonAddressCountry: "Ukraine"
+hackathonTimeTitle: "Hack through"
+hackathonStartTime: "2014-10-24T10:00"
+hackathonDoorTime: "09:00"
+hackathonEndTime: "2014-10-25T00:00"
+viewOnMap: "View on Google Maps"
+hackathonPlaceCoordinates: "49.056728, 3.117289"
+hackathonMapCenterCoordinates: "49.056728, 3.117289"
+hackathonMapMobileCenterCoordinates: "49.056728, 3.117289"
