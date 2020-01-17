@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Women Techmakers Galicia 2020 - 28th March, La Coruña</title>
+    <description>Women Techmakers Galicia is coming to Vigo on the 28th March 2020. We are currently looking for sponsors. Join us to help make the Galician tech scene a more diverse place.</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Call for Papers</title>
+        <description>&lt;p&gt;Women Techmakers Galicia will be held 10th of March in the city of Vigo. If you want to be part of this great event as a speaker you are in luck!&lt;/p&gt;
+
+&lt;h4 id=&quot;please-submit-your-proposals-here&quot;&gt;Please submit your proposals &lt;a href=&quot;https://gdgvigo.typeform.com/to/tv2opj&quot;&gt;here&lt;/a&gt;.&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;Deadline&lt;/strong&gt; is February 10th, 2018&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Please note:&lt;/strong&gt; There is no guarantee that a submission will be put onto the conference agenda!&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;The program committee picks the most interesting talk proposals and informs the selected submitters until February 15, 2018.&lt;br /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;any-questions&quot;&gt;Any questions?&lt;/h4&gt;
+&lt;p&gt;Email organizers at &lt;a href=&quot;mailto:info@gdgvigo.com&quot;&gt;info@gdgvigo.com&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 09 Jan 2018 10:00:00 +0100</pubDate>
+        <link>http://localhost:4000/blog/call-for-papers</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/call-for-papers</guid>
+      </item>
+    
+      <item>
+        <title>Call for sponsors</title>
+        <description>&lt;p&gt;We’re very excited - not just because of the inordinate amount of caffeine based products consumed - 
+but also because our team are putting together 
+the final missing parts to the biggest tech event in Galicia&lt;/p&gt;
+
+&lt;p&gt;This year event will take place in Vigo - Spain.&lt;/p&gt;
+
+&lt;p&gt;We couldn’t make these events happen without the help of our amazing sponsors, so why not help us out this year and show the community that you support diversity!&lt;/p&gt;
+
+&lt;p&gt;Sponsor us &lt;a href=&quot;https://gdgvigo.typeform.com/to/okuTbZ&quot;&gt;now&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 09 Jan 2018 09:00:00 +0100</pubDate>
+        <link>http://localhost:4000/blog/call-for-sponsors</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/call-for-sponsors</guid>
+      </item>
+    
+  </channel>
+</rss>
