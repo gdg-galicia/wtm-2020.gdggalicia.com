@@ -1,8 +1,13 @@
-- 
-  group: "Main organizer"
-  elements: 
-    - {name: "GDG Vigo", description: "GDG Vigo - Comunidad abierta de voluntarios en la ciudad de Vigo", link: "https://www.meetup.com/es-ES/GDGVigo/", imageUrl: "gdg-vigo.svg"}
-- 
+-
+  group: "Main organizers"
+  elements:
+    - {name: "GDG Coruña", description: "GDG Coruña - Comunidad Google de Coruña", link: "https://www.meetup.com/GDG-Coruna/", imageUrl: "gdg-coruña.png"}
+    - {name: "GDG Santiago", description: "GDG Santiago - Comunidad Google de Santiago de Compostela", link: "https://www.meetup.com/es-ES/gdgsantiagoes/", imageUrl: "gdg-santiago.png"}
+    - {name: "GDG Vigo", description: "GDG Vigo - Comunidad Google de Vigo", link: "https://www.meetup.com/es/GDGVigo/", imageUrl: "gdg-vigo.png"}
+    - {name: "GDG Pontevedra", description: "GDG Pontevedra - Comunidad Google de Pontevedra", link: "https://www.meetup.com/es/GDG-Pontevedra/", imageUrl: "gdg-pontevedra.png"}
+    - {name: "GDG Ourense", description: "GDG Ourense - Comunidad Google de Ourense", link: "https://www.meetup.com/es/GDGOurense/", imageUrl: "gdg-ourense.png"}
+    - {name: "GDG Lugo", description: "GDG Lugo - Comunidad Google de Lugo", link: "https://www.meetup.com/GDG-Lugo/", imageUrl: "gdg-lugo.png"}
+-
   group: "Co-organizers"
   elements:
     - {name: "GalsTech", description: "GalsTech - Comunidad para mujeres tecnológicas de Galicia", link: "https://www.galstech.org", imageUrl: "galstech.svg"}
