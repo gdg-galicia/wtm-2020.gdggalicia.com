@@ -11,7 +11,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
 title: "Women Techmakers Galicia 2020 - 28th March, A Coruña"
-email: "gdgcoruna@gmail.com"
+email: "info@gdggalicia.com"
 description: "Women Techmakers Galicia is coming to A Coruña on the 28th March 2020. We are currently looking for sponsors. Join us to help make the Galician tech scene a more diverse place."
 baseurl: ""
 url: "https://wtm.gdggalicia.com"
@@ -25,7 +25,7 @@ organizerName: "Women Techmakers Galicia"
 organizerAlternateName: "Women Techmakers Galicia"
 organizerDescription: "Women Techmakers powered by GDG Galicia presents
                        International Women's Day Global Event Series. Connect. Create. Celebrate."
-organizerEmail: "gdgcoruna@gmail.com"
+organizerEmail: "info@gdggalicia.com"
 organizerLogo: "/img/seo/wtmgalicia.png"
 organizerLink: "https://www.meetup.com/en-AU/GDGVigo/?chapter_analytics_code=UA-73757047-1"
 
@@ -180,7 +180,7 @@ footerBlocks:
  -
   title: "Contacts"
   links:
-   - {link: "mailto:gdgcoruna@gmail.com", text: "gdgcoruna@gmail.com"}
+   - {link: "mailto:info@gdggalicia.com", text: "info@gdggalicia.com"}
  -
   title: "FAQ"
   links:

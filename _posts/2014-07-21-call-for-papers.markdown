@@ -15,4 +15,4 @@ __Please note:__ There is no guarantee that a submission will be put onto the co
 The program committee picks the most interesting talk proposals and informs the selected submitters until February 15, 2018.<br/>
 
 #### Any questions?
-Email organizers at [gdgcoruna@gmail.com](mailto:gdgcoruna@gmail.com)
+Email organizers at [info@gdggalicia.com](mailto:info@gdggalicia.com)

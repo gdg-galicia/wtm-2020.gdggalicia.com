@@ -59,6 +59,6 @@ Google reserves the right to refuse admittance to, or remove any person from the
 
 ##### Contacts:
 
-- [gdgcoruna@gmail.com](mailto:gdgcoruna@gmail.com)
+- [info@gdggalicia.com](mailto:info@gdggalicia.com)
 
 <img class="img-responsive feature-image" src="{{ site.baseurl }}/img/posts/cod.jpg" style="display:none">
