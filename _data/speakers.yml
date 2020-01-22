@@ -1,6 +1,6 @@
-- 
+-
   id: 1
-  name: "You?"
+  name: "Tú?"
   surname: ""
   company: ""
   title: "Rockstar Developer"
@@ -10,5 +10,5 @@
   #ribbon:
       #- {abbr: "WT", title: "Women Techmaker Lead"}
       #- {abbr: "GDG", title: "Google Developer Group"}
-  #social: 
+  #social:
     #- {name: "twitter", link: "https://twitter.com/chibichibibr/"}

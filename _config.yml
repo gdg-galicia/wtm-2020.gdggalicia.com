@@ -10,9 +10,9 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "Women Techmakers Galicia 2020 - 28th March, A Coruña"
+title: "Women Techmakers Galicia 2020 - 28 de Marzo, A Coruña"
 email: "info@gdggalicia.com"
-description: "Women Techmakers Galicia is coming to A Coruña on the 28th March 2020. We are currently looking for sponsors. Join us to help make the Galician tech scene a more diverse place."
+description: "El 28 de Marzo celebramos la iniciativa Women Techmakers Galicia en A Coruña. Estamos buscando sponsors. Contamos contigo para hacer del mundo tecnológico de Galicia un lugar más diverso."
 baseurl: ""
 url: "https://wtm.gdggalicia.com"
 permalink: "/blog/:title"
@@ -23,14 +23,14 @@ siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 # Organizer Info
 organizerName: "Women Techmakers Galicia"
 organizerAlternateName: "Women Techmakers Galicia"
-organizerDescription: "Women Techmakers powered by GDG Galicia presents
-                       International Women's Day Global Event Series. Connect. Create. Celebrate."
+organizerDescription: "GDG Galicia presenta
+                       Día internacional de la mujer. Conecta. Crea. Celebra."
 organizerEmail: "info@gdggalicia.com"
 organizerLogo: "/img/seo/wtmgalicia.png"
 organizerLink: "https://www.meetup.com/en-AU/GDGVigo/?chapter_analytics_code=UA-73757047-1"
 
 # Head
-metaKeywords: "women, techmakers, wtm, galicia, event, gdg, google, programming, android, chrome, developers, lviv"
+metaKeywords: "women, techmakers, wtm, galicia, event, gdg, google, programming, android, chrome, developers, lviv, mujer"
 twitterAccount: "@gdggalicia"
 socialImageSrcGooglePlus: "/img/seo/social-share.jpg"
 socialImageSrcTwitter: "/img/seo/social-share.jpg"
@@ -44,11 +44,11 @@ c4sponsorsUrl: "https://forms.gle/GQmi8gccrvwk7uwb7"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/cod/", text: "Code of Conduct"}
+ - {permalink: "/cod/", text: "Código de Conducta"}
  #- {permalink: "/schedule/", text: "Schedule"}
  #- {permalink: "/speakers/", text: "Speakers"}
  #- {permalink: "/team/", text: "Team"}
- - {permalink: "/logistics/", text: "Location"}
+ - {permalink: "/logistics/", text: "Ubicación"}
  #- {permalink: "/blog/", text: "Blog"}
  #- {permalink: "/nggirls/", text: "nggirls"}
 #rightNavigationButtons:
@@ -57,17 +57,17 @@ navigationLinks:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "Women Techmakers <typeout> 2020"
-eventDate: "28th March, 2020, A Coruña"
+eventDate: "28 de Marzo, 2020, A Coruña"
 typeoutTextValues: '"", "Galicia"'
 typeoutFallback: "Galicia"
 #heroButtons:
  #- {permalink: "https://www.meetup.com/en-AU/GDGVigo/events/246829616/", text: "Get your ticket"}
 
 # About Block
-aboutTitle: "About WTM Galicia"
+aboutTitle: "Sobre WTM Galicia"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The best tech conference in Galicia crafted by the local GDG groups with awesome speakers and lots of fun!" }
- - {title: "Networking", image: "networking.jpg", text: "A fantastic way to meet other people in tech and network!" }
+ - {title: "Conferencia", image: "conference.jpg", text: "WTM Galicia es un evento para celebrar el día de la mujer a través de una serie de charlas que nos harán aprender un montón de cosas nuevas en el mejor ambiente!" }
+ - {title: "Networking", image: "networking.jpg", text: "Un modo genial de conocer a gente en el mundo tech y hacer networking!" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
@@ -78,19 +78,19 @@ statisticBlock:
  - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
 
 # Latest News Block
-latestNewsTitle: "Latest news"
+latestNewsTitle: "Últimas noticias"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
 rockstarSpeakersCount: 4
-rockstarSpeakersTitle: "Rockstar speakers"
-rockstarSpeakersButtonText: "Become a speaker"
+rockstarSpeakersTitle: "Speakers"
+rockstarSpeakersButtonText: "Envía tu propuesta"
 rockstarSpeakersButtonLink: "https://forms.gle/PaefR6diGzCihh256"
 
 
 # Location Block
-locationBlockTitle: "Location"
-eventLocationName: "Conference Hall"
+locationBlockTitle: "Ubicación"
+eventLocationName: "A Coruña"
 eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
 eventStreetAddress: "Rúa Cantón Grande, 9"
 eventAddressLocality: "A Coruña"
@@ -115,14 +115,14 @@ venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio syste
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
-tweetsFeedTitle: "What's Up?"
+tweetsFeedTitle: "Estamos en twitter?"
 twitterHashTag: "WTMGalicia"
 twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
-organizersTitle: "Organizers"
-partnersTitle: "Partners"
-partnersC4sponsorsButton: "Become a sponsor"
+organizersTitle: "Organizadores"
+partnersTitle: "Colaboradores"
+partnersC4sponsorsButton: "Conviértete en sponsor"
 
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
@@ -178,16 +178,16 @@ footerBlocks:
   links:
    - {link: "https://developers.google.com", text: "Google Developers"}
  -
-  title: "Contacts"
+  title: "Contacto"
   links:
    - {link: "mailto:info@gdggalicia.com", text: "info@gdggalicia.com"}
  -
   title: "FAQ"
   links:
-   - {permalink: "/cod/", text: "Code of Conduct"}
+   - {permalink: "/cod/", text: "Código de Conducta"}
 
 # Blog
-blogTitle: "Latest news"
+blogTitle: "Últimas noticias"
 blogCommentsEnabled: true
 discusShortName: "devfestua"
 
@@ -199,7 +199,7 @@ teamBlockTitle: "About us"
 aboutUs: "We are a small but ambitious team with big dreams. We love what we do and we do it because of the community. So now it is our turn to give back to the community!"
 
 # Logistics Find Way Block
-findWayTitle: "Find your way here"
+findWayTitle: "¿Cómo llegar?"
 findWayDistance: "Distance"
 findWayDriving: "DRIVING"
 findWayWalking: "WALKING"
@@ -213,11 +213,11 @@ googleMapsApiKey: "AIzaSyCKZiS4sRf0EO86qoQvCJIJTnjvN3qdMPA"
 
 # Logistics Direction Details Block
 directionDetailsImage: "direction-details.jpg"
-directionDetailsTitle: "Get to A Coruña"
+directionDetailsTitle: "¿Cómo llegar a A Coruña?"
 directionDetailsCards:
  #- {title: "From the Airport", information: 'Airport is right at the city border. It is easy to reach by car, public transport or taxi. More information is available at <a href="http://www.aena.es/es/aeropuerto-vigo/transporte-y-parking.html">airport website</a>.'}
- - {title: "Public Transit", information: 'Google Transit is available in A Coruña. So you can find your way on Google Maps. A Coruña is not a very big city so it is easy to get around by foot.'}
- - {title: "Hotels", information: 'A Coruña has lots of great hotels and hostels. More information will be available later.'}
+ - {title: "Transporte público", information: 'Google Transit está disponible en A Coruña, así que puedes utilizar Google Maps para moverte. A Coruña es una ciudad de tamaño medio así que seguramente puedas moverte a pie en tus desplazamientos.'}
+ #- {title: "Hoteles", information: 'A Coruña cuenta con un montón de hoteles y apartamentos. More information will be available later.'}
 
 # Hackathon
 hackathonTitle: "Hackathon"

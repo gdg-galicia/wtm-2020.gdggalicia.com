@@ -1,6 +1,6 @@
-- 
-  group: "General sponsor"
-  elements: 
+-
+  group: "Sponsors"
+  elements:
     - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
 -
   #group: "Big sponsors:"
@@ -10,4 +10,3 @@
   #group: "Shy sponsors"
   #elements:
     #- {name: "Stickermule", description: "Stickermule", link: "https://www.stickermule.com/supports/womentechmakersgalicia", imageUrl: "stickermule.svg"}
-    
