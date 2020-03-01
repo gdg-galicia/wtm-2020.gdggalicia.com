@@ -84,8 +84,8 @@ latestNewsTitle: "Últimas noticias"
 rockstarSpeakersImage: "rockstar-speakers.jpg"
 rockstarSpeakersCount: 4
 rockstarSpeakersTitle: "Speakers"
-rockstarSpeakersButtonText: "Envía tu propuesta"
-rockstarSpeakersButtonLink: "https://forms.gle/PaefR6diGzCihh256"
+#rockstarSpeakersButtonText: "Envía tu propuesta"
+#rockstarSpeakersButtonLink: "https://forms.gle/PaefR6diGzCihh256"
 
 
 # Location Block
@@ -121,7 +121,7 @@ twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_int
 
 # Partners Block
 organizersTitle: "Organizadores"
-partnersTitle: "Colaboradores"
+partnersTitle: "Patrocinadores"
 partnersC4sponsorsButton: "Conviértete en sponsor"
 
 # Subscribe Block

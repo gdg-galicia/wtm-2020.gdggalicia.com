@@ -1,12 +1,22 @@
 -
-  group: "Sponsors"
+  group: "Con el apoyo de"
   elements:
     - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
+    - {name: "Accenture", description: "Accenture", link: "https://www.accenture.com", imageUrl: "accenture.jpg"}
+    - {name: "Gpul", description: "Gpul", link: "https://gpul.org", imageUrl: "logo_gpul.png"}
+    - {name: "Coruña Dixital", description: "Coruña Dixital", link: "https://corunadixital.gal/en/about-coruna-dixital/", imageUrl: "corunaDixital.png"}
 -
-  #group: "Big sponsors:"
-  #elements:
-    #- {name: "Teltek", description: "Teltek", link: "https://teltek.es", imageUrl: "logo_Teltek.svg"}
+  group: "Oro"
+  elements:
+    - {name: "Imatia", description: "Imatia", link: "https://www.imatia.com", imageUrl: "imatia.png"}
+    - {name: "Corunet", description: "Corunet", link: "https://coru.net", imageUrl: "logo_corunet.svg"}
+    - {name: "Plexus", description: "Plexus", link: "https://www.tecnologiasplexus.com", imageUrl: "logoPlexus.jpg"}
+    - {name: "Empathy.co", description: "Empathy.co", link: "https://www.empathy.co", imageUrl: "empathy.co.png"}
 -
-  #group: "Shy sponsors"
-  #elements:
-    #- {name: "Stickermule", description: "Stickermule", link: "https://www.stickermule.com/supports/womentechmakersgalicia", imageUrl: "stickermule.svg"}
+  group: "Plata"
+  elements:
+    - {name: "Gradiant", description: "Gradiant", link: "https://www.gradiant.org", imageUrl: "gradiant.png"}
+-
+  group: "Bronce"
+  elements:
+    - {name: "Hack a boss", description: "Hack a boss", link: "https://hack-a-bos.com", imageUrl: "hab.png"}

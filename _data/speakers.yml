@@ -1,14 +1,14 @@
 -
   id: 1
-  name: "Tú?"
+  name: "Muy pronto más información"
   surname: ""
   company: ""
   title: "Rockstar Developer"
   bio: ""
   thumbnailUrl: you.png
   rockstar: true
-  #ribbon:
-      #- {abbr: "WT", title: "Women Techmaker Lead"}
-      #- {abbr: "GDG", title: "Google Developer Group"}
-  #social:
-    #- {name: "twitter", link: "https://twitter.com/chibichibibr/"}
+  ribbon:
+      - {abbr: "WT", title: "Women Techmaker Lead"}
+      - {abbr: "GDG", title: "Google Developer Group"}
+  social:
+    - {name: "twitter", link: "https://twitter.com/chibichibibr/"}
