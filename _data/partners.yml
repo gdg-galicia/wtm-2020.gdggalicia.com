@@ -15,7 +15,7 @@
 -
   group: "Plata"
   elements:
-    - {name: "Gradiant", description: "Gradiant", link: "https://www.gradiant.org", imageUrl: "gradiant.png"}
+    - {name: "Gradiant", description: "Gradiant", link: "https://www.gradiant.org", imageUrl: "Logotipo-Gradiant_V3.eps"}
 -
   group: "Bronce"
   elements:
