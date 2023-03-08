@@ -10,9 +10,9 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "Women Techmakers Galicia 2020 - 28 de Marzo, A Coruña"
+title: "Women Techmakers Galicia 2023 - 6 de Mayo, A Coruña"
 email: "gdgcoruna@gmail.com"
-description: "El 28 de Marzo celebramos la iniciativa Women Techmakers Galicia en A Coruña. Estamos buscando sponsors. Contamos contigo para hacer del mundo tecnológico de Galicia un lugar más diverso."
+description: "El 6 de Mayo celebramos la iniciativa Women Techmakers Galicia en A Coruña. Estamos buscando sponsors. Contamos contigo para hacer del mundo tecnológico de Galicia un lugar más diverso."
 baseurl: ""
 url: "https://wtm.gdggalicia.com"
 permalink: "/blog/:title"
@@ -56,10 +56,10 @@ navigationLinks:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "Women Techmakers <typeout> 2020"
-eventDate: "28 de Marzo, 2020, A Coruña"
-typeoutTextValues: '"", "Galicia"'
-typeoutFallback: "Galicia"
+heroTitle: "Women Techmakers Galicia <typeout>"
+eventDate: "6 de Mayo, 2023, A Coruña"
+typeoutTextValues: '"", "2023"'
+typeoutFallback: "2023"
 #heroButtons:
  #- {permalink: "https://www.meetup.com/en-AU/GDGVigo/events/246829616/", text: "Get your ticket"}
 
@@ -82,7 +82,7 @@ latestNewsTitle: "Últimas noticias"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
-rockstarSpeakersCount: 4
+#rockstarSpeakersCount: 4
 rockstarSpeakersTitle: "Speakers"
 #rockstarSpeakersButtonText: "Envía tu propuesta"
 #rockstarSpeakersButtonLink: "https://forms.gle/PaefR6diGzCihh256"
@@ -97,9 +97,9 @@ eventAddressLocality: "A Coruña"
 eventAddressLocalityRegion: "A Coruña"
 eventPostalCode: "15003"
 eventAddressCountry: "Spain"
-eventStartTime: "2020-03-28T10:00"
+eventStartTime: "2023-05-06T10:00"
 eventDoorTime: "09:30"
-eventEndTime: "2020-03-28T17:30"
+eventEndTime: "2023-05-06T17:30"
 eventPlaceCoordinates: "43.368035, -8.403506"
 mapCenterCoordinates: "43.368035, -8.403506"
 mapMobileCenterCoordinates: "43.368035, -8.403506"
