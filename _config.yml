@@ -38,7 +38,7 @@ socialImageSrcFacebook: "/img/seo/social-share.jpg"
 
 # Documents
 c4pUrl: "https://forms.gle/GQmi8gccrvwk7uwb7"
-c4sponsorsUrl: "https://forms.gle/GQmi8gccrvwk7uwb7"
+c4sponsorsUrl: "https://forms.gle/SRH2BBBTKNdkPpZL9"
 
 
 # Navigation
@@ -56,7 +56,7 @@ navigationLinks:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "Women Techmakers Galicia <typeout>"
+heroTitle: "Women Techmakers Galicia <typeout> "
 eventDate: "6 de Mayo, 2023, A Coruña"
 typeoutTextValues: '"", "2023"'
 typeoutFallback: "2023"
@@ -82,7 +82,7 @@ latestNewsTitle: "Últimas noticias"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
-#rockstarSpeakersCount: 4
+rockstarSpeakersCount: 1
 rockstarSpeakersTitle: "Speakers"
 #rockstarSpeakersButtonText: "Envía tu propuesta"
 #rockstarSpeakersButtonLink: "https://forms.gle/PaefR6diGzCihh256"
