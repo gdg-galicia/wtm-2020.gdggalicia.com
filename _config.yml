@@ -57,11 +57,11 @@ navigationLinks:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "Women Techmakers Galicia <typeout> "
-eventDate: "6 de Mayo, 2023, A Coruña"
+eventDate: "6 de Mayo, 2023, Fundación Luis Seoane, A Coruña"
 typeoutTextValues: '"", "2023"'
 typeoutFallback: "2023"
-#heroButtons:
- #- {permalink: "https://www.meetup.com/en-AU/GDGVigo/events/246829616/", text: "Get your ticket"}
+heroButtons:
+ - {permalink: "https://www.meetup.com/gdg-coruna/events/292303423", text: "Consigue tu entrada"}
 
 # About Block
 aboutTitle: "Sobre WTM Galicia"
