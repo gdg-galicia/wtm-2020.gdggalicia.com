@@ -1,14 +1,102 @@
 -
   id: 1
-  name: "Muy pronto más información"
-  surname: ""
-  company: ""
-  title: "Rockstar Developer"
-  bio: ""
-  thumbnailUrl: you.png
+  name: "Antonia"
+  surname: "Amoedo"
+  #company: "Imatia"
+  title: "Project Manager"
+  bio: "Estudié Ingeniería Superior de Telecomunicaciones en la Universidad de Vigo. En 2001, me fui a Portugal con una beca Erasmus para realizar el proyecto fin de carrera en el Instituto de Engenharia Electrónica e Telemática de la Universidade de Aveiro. Allí comencé mi carrera profesional, trabajando para NEC Portugal en el desarrollo de software para móviles. De vuelta a Galicia, he trabajado en diferentes consultoras, principalmente en el desarrollo de aplicaciones Web en Java, en tareas de análisis funcional y de negocio. Actualmente soy Directora de proyectos en la gerencia de Sector público en Imatia Innovation, donde he dirigido proyectos para la administración pública en Galicia y Brasil, en continuo contacto con nuestros clientes."
+  thumbnailUrl: antonia.jpg
   rockstar: true
-  ribbon:
-      - {abbr: "WT", title: "Women Techmaker Lead"}
-      - {abbr: "GDG", title: "Google Developer Group"}
   social:
-    - {name: "twitter", link: "https://twitter.com/chibichibibr/"}
+    - {name: "linkedin", link: "www.linkedin.com/in/antonia-amoedo-otero-a2708b1"}
+-
+  id: 2
+  name: "Ariane"
+  surname: "Jurado"
+  #company: "LIFULL Connect"
+  title: "Software developer"
+  bio: "Pasé de trabajar 3 años como frontend a trabajar de backend, de consultora a empresa de producto y con prácticas de eXtreme programming. Ha sido un cambio del 180° y un reto enorme que me costó muchos meses poder alcanzar y que me supuso mucha inseguridad y, a su vez, un bloqueo de conocimientos por una barrera  que me puse delante que no me permitía sacar mi potencial. En esta charla te quiero contar cómo fueron mis primeros 6 meses en Lifull Connect, teniendo mucho Síndrome del impostor y cómo he logrado, con el apoyo de mi manager y equipo, lograr hacerle una grieta a esa barrera y comenzar a atravesarla."
+  thumbnailUrl: ariane.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "@ari_reinventada"}
+-
+  id: 3
+  name: "Beatriz"
+  surname: "Martínez"
+  #company: "LIFULL Connect"
+  title: "Software developer"
+  bio: ""
+  thumbnailUrl: beatrizMartinez.jpeg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "@ari_reinventada"}
+-
+  id: 4
+  name: "Cristina Gamallo"
+  surname: ""
+  #company: "LIFULL Connect"
+  title: "Software developer"
+  bio: ""
+  thumbnailUrl: cristina.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "@ari_reinventada"}
+-
+  id: 5
+  name: "Laura M."
+  surname: "Castro"
+  #company: "LIFULL Connect"
+  title: "Software developer"
+  bio: "Pasé de trabajar 3 años como frontend a trabajar de backend, de consultora a empresa de producto y con prácticas de eXtreme programming. Ha sido un cambio del 180° y un reto enorme que me costó muchos meses poder alcanzar y que me supuso mucha inseguridad y, a su vez, un bloqueo de conocimientos por una barrera  que me puse delante que no me permitía sacar mi potencial. En esta charla te quiero contar cómo fueron mis primeros 6 meses en Lifull Connect, teniendo mucho Síndrome del impostor y cómo he logrado, con el apoyo de mi manager y equipo, lograr hacerle una grieta a esa barrera y comenzar a atravesarla."
+  thumbnailUrl: laura-informal.jpeg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "@ari_reinventada"}
+-
+  id: 6
+  name: "Laura"
+  surname: "Morillo"
+  #company: "LIFULL Connect"
+  title: "Software developer"
+  bio: "Pasé de trabajar 3 años como frontend a trabajar de backend, de consultora a empresa de producto y con prácticas de eXtreme programming. Ha sido un cambio del 180° y un reto enorme que me costó muchos meses poder alcanzar y que me supuso mucha inseguridad y, a su vez, un bloqueo de conocimientos por una barrera  que me puse delante que no me permitía sacar mi potencial. En esta charla te quiero contar cómo fueron mis primeros 6 meses en Lifull Connect, teniendo mucho Síndrome del impostor y cómo he logrado, con el apoyo de mi manager y equipo, lograr hacerle una grieta a esa barrera y comenzar a atravesarla."
+  thumbnailUrl: lauraMorillo.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "@ari_reinventada"}
+-
+  id: 7
+  name: "Marta"
+  surname: "Wiśniewska"
+  #company: "LIFULL Connect"
+  title: "Software developer"
+  bio: ""
+  thumbnailUrl: marta_upd.png
+  rockstar: true
+  social:
+    - {name: "twitter", link: "@ari_reinventada"}
+-
+  id: 8
+  name: "Mercedes"
+  surname: "Rodríguez"
+  #company: "LIFULL Connect"
+  title: "Software developer"
+  bio: ""
+  thumbnailUrl: mrodriguez_upd.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "@ari_reinventada"}
+
+  #id: 1
+  #name: "Muy pronto más información"
+  #surname: ""
+  #company: ""
+  #title: "Rockstar Developer"
+  #bio: ""
+  #thumbnailUrl: you.png
+  #rockstar: true
+  #ribbon:
+  #    - {abbr: "WT", title: "Women Techmaker Lead"}
+  #    - {abbr: "GDG", title: "Google Developer Group"}
+  #social:
+  #  - {name: "twitter", link: "https://twitter.com/chibichibibr/"}
