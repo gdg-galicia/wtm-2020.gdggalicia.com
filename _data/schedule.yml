@@ -2,7 +2,7 @@
   date: "2023-05-06"
   dateReadable: "6 de mayo"
   tracks:
-    - {title: "Charla", color: "#03a9f4"}
+    - {title: "Charlas", color: "#03a9f4"}
   timeslots:
     - {
         startTime: "09:30",
