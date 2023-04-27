@@ -3,88 +3,84 @@
   title: "Coffee Break"
   place: "Hall"
   service: true
-  description: "The best time to talk with speakers and attendees"
--
-  id: 308
-  title: "Break"
-  place: "Hall"
-  service: true
-  description: "The best time to talk with speakers and attendees"
+  description: ""
 -
   id: 503
-  title: "Lunch Break"
+  title: "Comida"
   place: "Dining room"
   service: true
 -
   id: 101
-  title: "Registration"
+  title: "Registro"
   place: "Hall"
   service: true
-  description: "It needs to be done"
--
-  id: 401
-  title: "NgGirls"
-  place: "Classroom"
-  service: true
-  description: "NgGirls"
+  description: ""
 -
   id: 201
-  title: "Welcome"
+  title: "Bienvenida"
   place: "Conference room"
   service: true
 -
   id: 202
-  title: "Closing talk"
+  title: "Despedida"
   place: "Conference room"
   service: true
 -
   id: 001
-  title: "Inclusion in technology + Building your first chatbot with Actions on Google!"
-  description: "She will host a talk on how to get started with building conversational bots using Actions on Google, that allows you to extend the Google Assistant to create your own Conversation Actions, integrate Google Assistant support into your services in your real world without a single line of code!"
+  title: "A experiencia dunha muller nas TIC"
+  description: ""
   subtype: presentation
   speakers: [1]
-  language: en
-  complexity: "Beginner"
+  #language: gl
+  #complexity: "Beginner"
 -
   id: 002
-  title: "<strike>No</strike> Quiero Ser Ingeniera "
-  description: "La informática (y los campos englobados en STEM) es para mí un campo apasionante en el que, sin embargo, el número de mujeres es muy reducido. Esto no sólo representa un problema para una industria que se basa en la creatividad y que necesita tener en cuenta la diferencia. Sino que también hace que muchas mujeres acaben abandonando el barco. En esta charla hablaré de qué me ha hecho a mí darme cuenta de la importancia de este problema y  qué podemos hacer para enfrentarnos a ello, colaborando
-                para hacer de la diversidad y la inclusión una realidad en STEM."
+  title: "Crea tu propio Google Assistant"
+  description: ""
   subtype: presentation
-  speakers: [4]
-  language: es
-  complexity: "Beginner"
+  speakers: [8]
+  #language: es
+  #complexity: "Beginner"
 -
   id: 003
-  title: "Keynote"
-  description: "Diversity and Inclusion in Technology"
-  subtype: presentation
-  speakers: [5]
-  language: es
-  complexity: "Beginner"
--
-  id: 004
-  title: "Intro to VR with UE4"
-  description: "We often hear that VR is an 'empathy machine', paving the way to a new paradigm of immersive computing. In this talk, we go over understanding how to use Unreal Engine 4 to create a simple VR experience, using Blueprints. Blueprints is a very powerful visual scripting tool."
+  title: "Experimentar el éxito y el síndrome del impostor"
+  description: ""
   subtype: presentation
   speakers: [2]
-  language: uk
-  complexity: "Beginner - Intermediate"
+  #language: es
+  #complexity: "Beginner"
+-
+  id: 004
+  title: "Monitorización con Prometheus"
+  description: ""
+  subtype: presentation
+  speakers: [3, 6]
+  #language: es
+  #complexity: "Beginner - Intermediate"
 
 -
   id: 005
-  title: "¿Cómo apasionamos a las niñas para crear la tecnología de mañana?"
-  description: "Las carreras técnicas sufren una carencia de matrícula femenina muy elevada. Las causas son múltiples y complejas, y es necesario comenzar con las niñas, desde diferentes ámbitos. El proyecto ICT-Go-Girls analizó estos factores, presentando una metodología de trabajo en el aula con niñas de 10 a 14 años."
+  title: "Obstáculos invisíbeis na implantación de software: unha historia <em>libre</em> baseada en feitos reais"
+  description: ""
   subtype: presentation
-  speakers: [3]
-  language: es
-  complexity: "Beginner"
+  speakers: [5]
+  #language: gl
+  #complexity: "Beginner"
 
 -
   id: 006
-  title: "Intro to Continuous Delivery"
-  description: "Continuous Delivery is a practice that focuses on delivering value to the end user through frequent releases of software. It heavily relays in testing and automation and can be applied to almost every technology project. In this talks, I describe the benefits of Continuous Delivery, as well as introducing the steps you need to put in place to start the CD journey."
+  title: "Core Web Vitals under control"
+  description: ""
   subtype: presentation
-  speakers: [6]
-  language: es
-  complexity: "Beginner"
+  speakers: [7]
+  #language: en
+  #complexity: "Beginner"
+
+-
+  id: 007
+  title: "De investigadorA en robótica a emprendedorA"
+  description: ""
+  subtype: presentation
+  speakers: [4]
+  #language: es
+  #complexity: "Beginner"

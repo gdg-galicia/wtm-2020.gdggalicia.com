@@ -45,7 +45,7 @@ c4sponsorsUrl: "https://forms.gle/SRH2BBBTKNdkPpZL9"
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/cod/", text: "Código de Conducta"}
- #- {permalink: "/schedule/", text: "Schedule"}
+ - {permalink: "/schedule/", text: "Agenda"}
  #- {permalink: "/speakers/", text: "Speakers"}
  #- {permalink: "/team/", text: "Team"}
  - {permalink: "/logistics/", text: "Ubicación"}

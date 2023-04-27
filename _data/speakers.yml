@@ -3,89 +3,92 @@
   name: "Antonia"
   surname: "Amoedo"
   #company: "Imatia"
-  title: "Project Manager"
+   #title: "Project Manager"
   bio: "Estudié Ingeniería Superior de Telecomunicaciones en la Universidad de Vigo. En 2001, me fui a Portugal con una beca Erasmus para realizar el proyecto fin de carrera en el Instituto de Engenharia Electrónica e Telemática de la Universidade de Aveiro. Allí comencé mi carrera profesional, trabajando para NEC Portugal en el desarrollo de software para móviles. De vuelta a Galicia, he trabajado en diferentes consultoras, principalmente en el desarrollo de aplicaciones Web en Java, en tareas de análisis funcional y de negocio. Actualmente soy Directora de proyectos en la gerencia de Sector público en Imatia Innovation, donde he dirigido proyectos para la administración pública en Galicia y Brasil, en continuo contacto con nuestros clientes."
   thumbnailUrl: antonia.jpg
   rockstar: true
   social:
-    - {name: "linkedin", link: "www.linkedin.com/in/antonia-amoedo-otero-a2708b1"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/antonia-amoedo-otero-a2708b1"}
 -
   id: 2
   name: "Ariane"
   surname: "Jurado"
   #company: "LIFULL Connect"
-  title: "Software developer"
-  bio: "Pasé de trabajar 3 años como frontend a trabajar de backend, de consultora a empresa de producto y con prácticas de eXtreme programming. Ha sido un cambio del 180° y un reto enorme que me costó muchos meses poder alcanzar y que me supuso mucha inseguridad y, a su vez, un bloqueo de conocimientos por una barrera  que me puse delante que no me permitía sacar mi potencial. En esta charla te quiero contar cómo fueron mis primeros 6 meses en Lifull Connect, teniendo mucho Síndrome del impostor y cómo he logrado, con el apoyo de mi manager y equipo, lograr hacerle una grieta a esa barrera y comenzar a atravesarla."
+   #title: "Software developer"
+  bio: "Enfermera, psicopedagoga de Venezuela, ahora desarrolladora en Madrid. Comparto lo que voy aprendiendo y mis fallos en redes y charlas. Hago Más allá del front."
   thumbnailUrl: ariane.jpg
   rockstar: true
   social:
-    - {name: "twitter", link: "@ari_reinventada"}
+    - {name: "twitter", link: "https://twitter.com/ari_reinventada"}
 -
   id: 3
   name: "Beatriz"
   surname: "Martínez"
   #company: "LIFULL Connect"
-  title: "Software developer"
-  bio: ""
+   #title: "Software developer"
+  bio: "Apasionada de la gente, la technology y la innovation a la que le encanta involucrarse con las comunidades open source. Actualmente Head of Culture en Isovalent. Responsable de hacer crecer Isovalent y el equipo con el espíritu y la cultura centrada en código abierto que ha debido la empresa desde sus inicios."
   thumbnailUrl: beatrizMartinez.jpeg
   rockstar: true
   social:
-    - {name: "twitter", link: "@ari_reinventada"}
+    - {name: "twitter", link: "https://twitter.com/beatrizmrg"}
 -
   id: 4
   name: "Cristina Gamallo"
   surname: ""
   #company: "LIFULL Connect"
-  title: "Software developer"
-  bio: ""
+  #title: "Software developer"
+  bio: "Cristina Gamallo es Ingeniera Informática por la Universidad de A Coruña (UDC, 2006), Máster en Seguridad de la Información por la Universidad de Deusto (2006), Experta en Visión Artificial y Robótica por la Universidad de Alicante (2006) y Doctora en Tecnologías de la Información por la USC (2013). Es experta en algoritmos de localización en interiores, creación automática de mapas, visión por computador e inteligencia artificial. Ha publicado más de 15 artículos científicos en revistas y congresos (tanto nacionales como internacionales y ha co-organizado los congresos IWINAC-2009 y WAF-011.</br>
+  Una vez finalizado su tesis doctoral juntos con varios compañeros del área de robótica del Centro Singular de Investigación en Tecnoloxías da Información (CITIUS) fundó la spin-off Situm Technologies. Situm es un proveedor global de localización en interiores de alta precisión con la mínima infraestructura, proporcionando la posición más precisa a cualquier usuario de móvil en cualquier lugar. Actualmente cuenta en su sistema con más de 5000 edificios repartidos por todo el mundo, siendo Hospitales, Campus Corporativos, Aeropuertos, Centros Comerciales, Estaciones de tren o museos, algunos de ellos. Por último, destacar que Situm cuenta su capital con la participación de por varios fondos de capital riesgo: Unirisco, Xesgalicia, Amadeus, SwanLab y Prosegur.</br>
+  Como socia fundadora de Situm ha participado en varios programas de emprendimiento y aceleradoras de start-ups en los últimos años: open Future, Impact, Microsoft o BFA entre otros. Siendo ganadores de varios premios a nivel nacional entre los que destacan accesit del Premio Everis 2016, 1er premio nacional emprendedores Yuzz, 1er premio Galicia Open Future, elevator pitch Singularity University Summit (Google, Nasa, otros) y 1er premio Galicia Emprendedor XXI de La Caixa.</br>
+  Durante los primeros años de la empresa Cristina, fué la responsable de la gestión, administración y proyectos de innovación. Posteriormente se hizo cargo del área de QA, y actualmente ejerce el cargo de Responsable del  departamento de Customer Succes. Siendo la responsable de que los clientes tenga  una experiencia exitosa del uso de la plataforma de Situm y su sistema de posicionamiento."
   thumbnailUrl: cristina.jfif
   rockstar: true
   social:
-    - {name: "twitter", link: "@ari_reinventada"}
+    - {name: "twitter", link: "https://twitter.com/c_gamallo"}
 -
   id: 5
   name: "Laura M."
   surname: "Castro"
   #company: "LIFULL Connect"
-  title: "Software developer"
-  bio: "Pasé de trabajar 3 años como frontend a trabajar de backend, de consultora a empresa de producto y con prácticas de eXtreme programming. Ha sido un cambio del 180° y un reto enorme que me costó muchos meses poder alcanzar y que me supuso mucha inseguridad y, a su vez, un bloqueo de conocimientos por una barrera  que me puse delante que no me permitía sacar mi potencial. En esta charla te quiero contar cómo fueron mis primeros 6 meses en Lifull Connect, teniendo mucho Síndrome del impostor y cómo he logrado, con el apoyo de mi manager y equipo, lograr hacerle una grieta a esa barrera y comenzar a atravesarla."
+  #title: "Software developer"
+  bio: "Laura M. Castro Souto é profesora titular na Universidade da Coruña (UDC), onde leva máis de quince anos impartindo clases. Foi coordinadora do Grao en Enxeñaría Informática (2017-2021) e actualmente preside a Cátedra Institucional de promoción da Ciencia Aberta a través do Software (CICAS) impulsada pola UDC e a empresa Sngular. Os seus intereses máis recentes céntranse no estudo do mundo do desenvolvemento de software desde unha perspectiva de xénero, en particular no eido das redes sociais. Participa activamente en actividades de difusión e divulgación, tanto en relación ao software libre, como no que respecta á visibilidade das mulleres en STEM."
   thumbnailUrl: laura-informal.jpeg
   rockstar: true
   social:
-    - {name: "twitter", link: "@ari_reinventada"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/lauracastro/?originalSubdomain=es"}
 -
   id: 6
   name: "Laura"
   surname: "Morillo"
   #company: "LIFULL Connect"
-  title: "Software developer"
-  bio: "Pasé de trabajar 3 años como frontend a trabajar de backend, de consultora a empresa de producto y con prácticas de eXtreme programming. Ha sido un cambio del 180° y un reto enorme que me costó muchos meses poder alcanzar y que me supuso mucha inseguridad y, a su vez, un bloqueo de conocimientos por una barrera  que me puse delante que no me permitía sacar mi potencial. En esta charla te quiero contar cómo fueron mis primeros 6 meses en Lifull Connect, teniendo mucho Síndrome del impostor y cómo he logrado, con el apoyo de mi manager y equipo, lograr hacerle una grieta a esa barrera y comenzar a atravesarla."
+  #title: "Software developer"
+  bio: "Ingeniera de sistemas en Seedtag, Google Developer Expert en Cloud. Lleva más de 12 años trabajando en el mundo del desarrollo de software con diferentes tecnologías principalmente en backend en desarrollo web y desde hace poco se ha pasado al lado oscuro de los sistemas."
   thumbnailUrl: lauraMorillo.jpg
   rockstar: true
   social:
-    - {name: "twitter", link: "@ari_reinventada"}
+    - {name: "twitter", link: "https://twitter.com/Laura_Morillo"}
 -
   id: 7
   name: "Marta"
   surname: "Wiśniewska"
   #company: "LIFULL Connect"
-  title: "Software developer"
-  bio: ""
+  #title: "Software developer"
+  bio: "Marta is a Google Developer Expert in Angular and Web Technologies from Poland. She is an international speaker, blogger, enthusiast of Angular, PWA, hybrid apps who loves exploring new web features and following hottest trends in tech. Marta is passionate about sharing knowledge in the community and spreading her love for tech."
   thumbnailUrl: marta_upd.png
   rockstar: true
   social:
-    - {name: "twitter", link: "@ari_reinventada"}
+    - {name: "twitter", link: "https://twitter.com/MartaW_PL"}
 -
   id: 8
   name: "Mercedes"
   surname: "Rodríguez"
   #company: "LIFULL Connect"
-  title: "Software developer"
+  #title: "Software developer"
   bio: ""
   thumbnailUrl: mrodriguez_upd.jpg
   rockstar: true
   social:
-    - {name: "twitter", link: "@ari_reinventada"}
+    - {name: "twitter", link: "https://twitter.com/mgarod3"}
 
   #id: 1
   #name: "Muy pronto más información"
