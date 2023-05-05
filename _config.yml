@@ -48,7 +48,7 @@ navigationLinks:
  - {permalink: "/schedule/", text: "Agenda"}
  #- {permalink: "/speakers/", text: "Speakers"}
  #- {permalink: "/team/", text: "Team"}
- - {permalink: "/logistics/", text: "Ubicación"}
+ # - {permalink: "/logistics/", text: "Ubicación"}
  #- {permalink: "/blog/", text: "Blog"}
  #- {permalink: "/nggirls/", text: "nggirls"}
 #rightNavigationButtons:
